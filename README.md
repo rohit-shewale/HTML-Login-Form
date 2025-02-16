@@ -35,12 +35,12 @@ Open index.html in a Browser
 Double-click the index.html file
 OR use a live server extension in VS Code
 
-#🛠 Customization
-Modify the gradient background in style.css
+##🛠 Customization
+Modify the gradient background in **style.css**
 Change hover effects on buttons
-Update login validation logic in index.html
+Update login validation logic in **script.js**
 
-#📜 License
+##📜 License
 This project is free to use for learning and personal use.
 
 ##🔥 Enjoy Coding & Happy Learning! 🚀
